@@ -16,7 +16,7 @@ public class Main {
 			System.out.println("=============================");
 			System.out.println("Pilih Menu:");
 			System.out.println("1. Masukkan Data Pembelian");
-//			System.out.println("2. Hitung Total Pembelian");
+			System.out.println("2. Hitung Total Pembelian");
 			System.out.println("3. Hitung Total Pembelian dengan Diskon");
 			System.out.println("4. Hitung Total Pembelian dengan Diskon dan PPN");
 			System.out.println("5. Pembayaran");
