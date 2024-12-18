@@ -9,22 +9,6 @@ public class HewanPeliharaan {
 		this.ras = ras;
 	}
 	
-	public String getNama() {
-		return nama;
-	}
-	
-	public void setNama(String nama) {
-		this.nama = nama;
-	}
-	
-	public String getRas() {
-		return ras;
-	}
-	
-	public void setRas(String ras) {
-		this.ras = ras;
-	}
-	
 	public void HewanPeliharaan(String n, String r) {
 		this.nama = n;
 		this.ras = r;
